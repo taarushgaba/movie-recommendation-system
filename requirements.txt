@@ -1,0 +1,16 @@
+# Runtime: API (api.py) and frontend (frontend.py)
+fastapi
+uvicorn
+streamlit
+streamlit-searchbox
+requests
+pandas
+numpy
+scipy
+scikit-learn
+joblib
+pyarrow
+
+# Embedding generation only (run on a GPU, e.g. Colab/Kaggle) - uncomment to install
+# sentence-transformers
+# torch
